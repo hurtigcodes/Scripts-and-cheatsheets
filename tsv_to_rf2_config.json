@@ -1,0 +1,47 @@
+{
+    "id": "{{UUID}}",
+    "effectiveTime": "",
+    "active": 1,
+    "moduleId": "51000202101",
+    "refsetId": "15641000202102",
+    "referencedComponentId": {
+        "map":"ConceptId",
+        "test":"123"
+    },
+    "ActiveConcept": "",
+    "FSN": {
+        "map":"Fully Specified Name - FSN (EN)"
+    },
+    "type": {
+        "map":"Område"
+    },
+    "Faggruppe": {
+        "map":"Type"
+    },
+    "descriptionId": "",
+    "ActiveDescription": "",
+    "languageCode": "no",
+    "typeId": "900000000000013009",
+    "term":  {
+        "map":"Foretrukket term -FT (NO)"
+    },
+    "caseSignificanceId": {
+        "map":"Case significance - FT"
+    },
+    "StatusId": "",
+    "StatusNavn": "",
+    "KortKode": "",
+    "Kommentar": "",
+    "Kategori": "",
+    "Kilde": "Semantix",
+    "KildeKolonne": "",
+    "langRefsetId": "61000202103",
+    "acceptabilityId": {
+        "map":"Status Oversettelse"
+    },
+    "icsId": "",
+    "Status": "Ikke-validert",
+    "Batch": {
+        "map":"Batch"
+    }
+}
