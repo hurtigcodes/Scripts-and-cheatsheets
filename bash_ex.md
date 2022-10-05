@@ -200,7 +200,9 @@ done <peptides.txt
 ```
 
 ## Change hostname
+```bash
 sudo hostnamectl set-hostname new_name
+````
 
 ## Remove files that don't have a certain file type/extension
 
