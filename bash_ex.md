@@ -199,6 +199,9 @@ while read p; do
 done <peptides.txt
 ```
 
+## Change hostname
+sudo hostnamectl set-hostname new_name
+
 ## Remove files that don't have a certain file type/extension
 
 ```bash
